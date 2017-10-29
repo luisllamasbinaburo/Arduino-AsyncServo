@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map AsyncServo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+AsyncServo	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Attach	KEYWORD2
+Detach	KEYWORD2
+Read	KEYWORD2
+SetInput	KEYWORD2
+SetOutput	KEYWORD2
+write	KEYWORD2
+WriteDegree	KEYWORD2
+WriteMicroseconds	KEYWORD2
+Move	KEYWORD2
+MoveDegrees	KEYWORD2
+Stop	KEYWORD2
+Update	KEYWORD2
+GetCurrentPosition	KEYWORD2
+Finish	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
