@@ -3,7 +3,7 @@ Librería de Arduino que permite mover un servo de forma no bloqueante. De esta 
 
 Más información https://www.luisllamas.es/libreria-arduino-asyncservo/
 
-## Instrucciones de us
+## Instrucciones de uso
 La clase AsyncServo implementa un servo cuyos movimientos están temporizados, en lugar de ser bloqueantes. El objetivo de la librería es poder mover uno o varios servos en un proyecto, incluso a diferentes velocidades, mientras que no se impide la ejecución otras tareas en el bucle de control principal.
 
 Un objeto Asyncservo se instancia a través de su constructor, similar a la de un servo convencional. La posición puede indicarse mediante tres acciones,
